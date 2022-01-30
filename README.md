@@ -1,7 +1,5 @@
-## Hi there, 👋
+## Hi there 👋
 My name is Jurrit van der Ploeg, nice to meet you!
-
-----
 
 ### Something about who I am and what I do:
 
@@ -16,8 +14,6 @@ info@jurritvanderploeg.nl
 
 #### ⚡ Fun fact:
 Ask me anything about flags, I am a vexillologist.
-
-----
 
 ### Experience
 
